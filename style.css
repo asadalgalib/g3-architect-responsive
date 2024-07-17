@@ -157,7 +157,8 @@ main > section,footer{
   padding: 100px 50px;
 }
 .box-img{
-  border: 1px solid rgba(255, 144, 14, 1.00);;
+  border: 1px solid rgba(255, 144, 14, 0.5);
+  border-radius: 8px;
   width: 240px;
   height: 240px;
   display: flex;
